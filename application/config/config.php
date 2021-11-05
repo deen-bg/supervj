@@ -2,7 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 
-$config['base_url'] = 'https://localhost/salepage-plakaphng/';
+$config['base_url'] = 'https://localhost/super-vj/';
 
 $config['index_page'] = '';
 
